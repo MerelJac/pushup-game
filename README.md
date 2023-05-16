@@ -8,3 +8,4 @@ If the user decides to play the game, the computer will prompt the player to com
 This game was made for fun to practice JavaScript. This game can be modifed for other exercises and rep ranges. 
 
 ## Link for Deployment
+https://mereljac.github.io/pushup-game/
